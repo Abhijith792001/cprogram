@@ -2,7 +2,7 @@
 int main()
 {
     int choice;
-    printf("1 Protaa \n2 Chappatti \n3 Vegitable kuruma \n4 Chikken cuury \n");
+    printf("1 Protaa \n2 Chappatti \n3 Vegitable kuruma \n4 Chikken cuury \nEnter your choice ");
     scanf("%d",&choice);
     switch(choice){
         case 1:
